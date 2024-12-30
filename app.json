@@ -1,13 +1,13 @@
 {
-  "name": "ExampleBotName",
-  "description": "Javascript WhatsApp bot made by DINUWH",
+  "name": "DINUWH-MD",
+  "description": "Javascript WhatsApp bot made by dinuwh",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "bnISDYaS#GdiHfM4vjXez0j0rVvHIeBOPDQNwKtBVBrqoIqgc9fE",
       "required": true
     },  
 
